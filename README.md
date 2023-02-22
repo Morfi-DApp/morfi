@@ -6,5 +6,5 @@ for frontend
 3. yarn dev
 
 for backend
-'cd server'
-'yarn start'
+1. cd server
+2. yarn start
