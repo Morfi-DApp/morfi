@@ -1,9 +1,9 @@
 # morfi
 
 for frontend
-'cd client'
-'yarn install'
-'yarn dev'
+1. cd client
+2. yarn install
+3. yarn dev
 
 for backend
 'cd server'
