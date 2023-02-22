@@ -1,10 +1,10 @@
 # morfi
 
 for frontend
-cd client
-yarn install
-yarn dev
+'cd client'
+'yarn install'
+'yarn dev'
 
 for backend
-cd server
-yarn start
+'cd server'
+'yarn start'
